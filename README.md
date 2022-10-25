@@ -2,7 +2,7 @@
 
 # 1. Crear una escena simple en Unity, con dos objetos: Notificador y Suscriptor y prueba el código en las transparencias.
 
-
+![](https://github.com/alu0101350158/P3-Interfaces-Inteligentes/blob/main/media/1-1_Trim.gif)
 
 # 2. Crear una escena en Unity, con objetos de tipo A, B y un único objeto C con los siguientes comportamientos:
 
